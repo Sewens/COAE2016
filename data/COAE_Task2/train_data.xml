@@ -1,0 +1,3694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DATA>
+	<DOC>
+		<ID>1</ID>
+		<TEXT>
+			<SENTENCE ID="1">没看就给一星的那些</SENTENCE>
+			<SENTENCE ID="2">那么恨章子怡就去砍她</SENTENCE>
+			<SENTENCE ID="3">打她</SENTENCE>
+			<SENTENCE ID="4">炸她家</SENTENCE>
+			<SENTENCE ID="5">要是不敢就在家诅咒她 打小人</SENTENCE>
+			<SENTENCE ID="6">扎针神马的</SENTENCE>
+			<SENTENCE ID="7">别捣这种乱</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+				<SENTENCE ID="3">演员</SENTENCE>
+				<SENTENCE ID="4">演员</SENTENCE>
+				<SENTENCE ID="5">演员</SENTENCE>
+				<SENTENCE ID="6">演员</SENTENCE>
+				<SENTENCE ID="7">其他</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>小人,诅咒</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>2</ID>
+		<TEXT>
+			<SENTENCE ID="1">你们都放心</SENTENCE>
+			<SENTENCE ID="2">王家卫绝不会因为任何人而破坏电影的整体氛围</SENTENCE>
+			<SENTENCE ID="3">如果赵本山</SENTENCE>
+			<SENTENCE ID="4">小沈阳一伙是在融合不进</SENTENCE>
+			<SENTENCE ID="5">王家卫绝对会一把毫不留情的剪掉</SENTENCE>
+			<SENTENCE ID="6">或许这本来就只是在电影成品出来之前制造的一点噱头而已</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">其他</SENTENCE>
+				<SENTENCE ID="2">导演</SENTENCE>
+				<SENTENCE ID="3">人物</SENTENCE>
+				<SENTENCE ID="4">人物</SENTENCE>
+				<SENTENCE ID="5">导演</SENTENCE>
+				<SENTENCE ID="6">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>放心</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>融合不进</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>毫不留情</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>噱头</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>3</ID>
+		<TEXT>
+			<SENTENCE ID="1">为什么有赵本山两师徒</SENTENCE>
+			<SENTENCE ID="2">为什么</SENTENCE>
+			<SENTENCE ID="3">为什么</SENTENCE>
+			<SENTENCE ID="4">为什么</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>4</ID>
+		<TEXT>
+			<SENTENCE ID="1">从没有发布的剧照和预告片来看</SENTENCE>
+			<SENTENCE ID="2">一经投放</SENTENCE>
+			<SENTENCE ID="3">肯定引起轩然大波</SENTENCE>
+			<SENTENCE ID="4">梁朝伟的形象会超越无间道天台戏</SENTENCE>
+			<SENTENCE ID="5">章子怡近年来又一个巅峰</SENTENCE>
+			<SENTENCE ID="6">张震的形象化身狠男硬汉通杀男女</SENTENCE>
+			<SENTENCE ID="7">赵本山小沈阳颠覆定位毫无违和感</SENTENCE>
+			<SENTENCE ID="8">质感完爆贺岁档</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">其他</SENTENCE>
+				<SENTENCE ID="2">其他</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">演员</SENTENCE>
+				<SENTENCE ID="5">演员</SENTENCE>
+				<SENTENCE ID="6">演员</SENTENCE>
+				<SENTENCE ID="7">演员</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>轩然大波,肯定</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>超越</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>硬汉</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>颠覆</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>5</ID>
+		<TEXT>
+			<SENTENCE ID="1">还是不喜欢这类”在云端“的台词</SENTENCE>
+			<SENTENCE ID="2">尤其在缺乏背景铺垫的前提下</SENTENCE>
+			<SENTENCE ID="3">必要性很值得怀疑</SENTENCE>
+			<SENTENCE ID="4">摄影十分漂亮</SENTENCE>
+			<SENTENCE ID="5">然而几条线索之间的比重关联缺乏有力的情感纽带</SENTENCE>
+			<SENTENCE ID="6">有自我突破的欲望</SENTENCE>
+			<SENTENCE ID="7">却没达成实质性的推进</SENTENCE>
+			<SENTENCE ID="8">远不及《卧虎藏龙》</SENTENCE>
+			<SENTENCE ID="9">在其他导演都不具备的资金与时间的奢侈条件下拍出这样的结果十分令人失望</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+				<SENTENCE ID="5">剧情</SENTENCE>
+				<SENTENCE ID="6">剧情</SENTENCE>
+				<SENTENCE ID="7">剧情</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>喜欢</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>铺垫,缺乏</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>必要,值得,怀疑</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>漂亮</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>情感,缺乏</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>突破</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>推进</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不及</WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>奢侈,失望</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>6</ID>
+		<TEXT>
+			<SENTENCE ID="1">王家卫总能让他的优雅美学成为意境良药</SENTENCE>
+			<SENTENCE ID="2">前段大气磅礴</SENTENCE>
+			<SENTENCE ID="3">后段流于情爱</SENTENCE>
+			<SENTENCE ID="4">梁朝伟还是那个周慕云</SENTENCE>
+			<SENTENCE ID="5">章子怡气势强大的快溢出来</SENTENCE>
+			<SENTENCE ID="6">一抹白花黑貂素裹的复仇女神</SENTENCE>
+			<SENTENCE ID="7">风中来雾里逝</SENTENCE>
+			<SENTENCE ID="8">最后独自在雪地里过瘾畅打仰面微笑的样子美到让人动容</SENTENCE>
+			<SENTENCE ID="9">真配得起一代宗师</SENTENCE>
+			<SENTENCE ID="10">不仅仅是王家卫</SENTENCE>
+			<SENTENCE ID="11">这也是徐皓峰袁和平张叔平的武林</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">导演</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">演员</SENTENCE>
+				<SENTENCE ID="5">演员</SENTENCE>
+				<SENTENCE ID="6">演员</SENTENCE>
+				<SENTENCE ID="7">演员</SENTENCE>
+				<SENTENCE ID="8">演员</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+				<SENTENCE ID="10">导演</SENTENCE>
+				<SENTENCE ID="11">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>意境,良药,优雅</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>大气磅礴,磅礴</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>情爱</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>气势,强大</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>复仇</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>微笑,动容,过瘾,自在</WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>7</ID>
+		<TEXT>
+			<SENTENCE ID="1">油和醋倒在一起未必就成油醋汁了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>8</ID>
+		<TEXT>
+			<SENTENCE ID="1">竟然有人吐槽张震戏少</SENTENCE>
+			<SENTENCE ID="2">只负责转折</SENTENCE>
+			<SENTENCE ID="3">真想反问句</SENTENCE>
+			<SENTENCE ID="4">您是新来的吧</SENTENCE>
+			<SENTENCE ID="5">第一天看王家卫吧</SENTENCE>
+			<SENTENCE ID="6">张震戏少</SENTENCE>
+			<SENTENCE ID="7">去看看《阿飞正传》里的梁朝伟吧</SENTENCE>
+			<SENTENCE ID="8">二十三年前他就那么干过了</SENTENCE>
+			<SENTENCE ID="9">不是新招儿</SENTENCE>
+			<SENTENCE ID="10">也不是啥新鲜槽点</SENTENCE>
+			<SENTENCE ID="11">你们当新槽来吐</SENTENCE>
+			<SENTENCE ID="12">也未免太没见识了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">其他</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+				<SENTENCE ID="5">其他</SENTENCE>
+				<SENTENCE ID="6">剧情</SENTENCE>
+				<SENTENCE ID="7">其他</SENTENCE>
+				<SENTENCE ID="8">其他</SENTENCE>
+				<SENTENCE ID="9">剧情</SENTENCE>
+				<SENTENCE ID="10">剧情</SENTENCE>
+				<SENTENCE ID="11">其他</SENTENCE>
+				<SENTENCE ID="12">其他</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>负责</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>阿飞</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>不是</WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>不是,新鲜</WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="12">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>见识</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>9</ID>
+		<TEXT>
+			<SENTENCE ID="1">世间所有的相遇都是久别重逢</SENTENCE>
+			<SENTENCE ID="2">念念不忘必有回响</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>10</ID>
+		<TEXT>
+			<SENTENCE ID="1">看完《一代宗师》</SENTENCE>
+			<SENTENCE ID="2">我在心里说</SENTENCE>
+			<SENTENCE ID="3">这才是电影</SENTENCE>
+			<SENTENCE ID="4">为什么王家卫拍电影速度奇慢</SENTENCE>
+			<SENTENCE ID="5">大概是因为他试图在每一秒的画面中都营造出高度风格化的诗意氛围。他是造梦师</SENTENCE>
+			<SENTENCE ID="6">他是时光雕刻家</SENTENCE>
+			<SENTENCE ID="7">他是本雅明所说的那种灵韵艺术创造者</SENTENCE>
+			<SENTENCE ID="8">只是在这个电影麦当劳化的时代</SENTENCE>
+			<SENTENCE ID="9">他这么拍电影是不是太奢侈了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">其他</SENTENCE>
+				<SENTENCE ID="2">其他</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">导演</SENTENCE>
+				<SENTENCE ID="5">导演</SENTENCE>
+				<SENTENCE ID="6">导演</SENTENCE>
+				<SENTENCE ID="7">导演</SENTENCE>
+				<SENTENCE ID="8">其他</SENTENCE>
+				<SENTENCE ID="9">导演</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>诗意</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>创造</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不是,奢侈</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>11</ID>
+		<TEXT>
+			<SENTENCE ID="1">画面真是脏得复杂又真实</SENTENCE>
+			<SENTENCE ID="2">描述的却是一个清丽的世界</SENTENCE>
+			<SENTENCE ID="3">火真奇妙，沉静之中，隐藏着破坏力。跟人一样，有所隐藏。走近去看才知道内里有什么，有时候烧伤了才知道真相</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">画面</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>复杂,真实</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>清丽</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>奇妙,沉静</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>12</ID>
+		<TEXT>
+			<SENTENCE ID="1">畫面大贊</SENTENCE>
+			<SENTENCE ID="2">設定太對我口味了</SENTENCE>
+			<SENTENCE ID="3">可惜結局稍有點俗套</SENTENCE>
+			<SENTENCE ID="4">隱喻及象徵也太過明顯</SENTENCE>
+			<SENTENCE ID="5">不過因為二宮和優的配音給加到滿分</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">画面</SENTENCE>
+				<SENTENCE ID="2">其他</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+				<SENTENCE ID="5">配乐</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>俗套,可惜</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>13</ID>
+		<TEXT>
+			<SENTENCE ID="1">人与人的关系，城市的发展与人的关系，有时候我们应该学会落后于时代，凝视人心</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>14</ID>
+		<TEXT>
+			<SENTENCE ID="1">松本大洋</SENTENCE>
+			<SENTENCE ID="2">theme也好听</SENTENCE>
+			<SENTENCE ID="3">现在才注意到配音</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">人物</SENTENCE>
+				<SENTENCE ID="2">配乐</SENTENCE>
+				<SENTENCE ID="3">配乐</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>好听</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>15</ID>
+		<TEXT>
+			<SENTENCE ID="1">苹果芽那段超棒</SENTENCE>
+			<SENTENCE ID="2">不过主题有点看不懂</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>16</ID>
+		<TEXT>
+			<SENTENCE ID="1">想起一部北欧电影，也是两小孩在高处，无聊的看着全城</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>17</ID>
+		<TEXT>
+			<SENTENCE ID="1">每个人都不得不面对变迁</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>18</ID>
+		<TEXT>
+			<SENTENCE ID="1">在肮脏的世界，一尘不染地活下去</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>19</ID>
+		<TEXT>
+			<SENTENCE ID="1">觉得它是讲人类追求精神家园的片子吧</SENTENCE>
+			<SENTENCE ID="2">白代表无邪，善良，软弱和灵感</SENTENCE>
+			<SENTENCE ID="3">黑代表愤怒，贪婪，破坏力和本能</SENTENCE>
+			<SENTENCE ID="4">蛇代表了工业化，躁动，物质欲望和无情的力量，老鼠代表旧世界残留的陋习，腐化，安稳和情义</SENTENCE>
+			<SENTENCE ID="5">人类要在新旧交替的时代保全自己，如何平衡黑和白，最后去到“海边的小屋“</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">其他</SENTENCE>
+				<SENTENCE ID="3">其他</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+				<SENTENCE ID="5">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>追求</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>无邪,灵感,善良,软弱</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>愤怒,贪婪</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>腐化,安稳,无情,躁动,情义</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>平衡</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>20</ID>
+		<TEXT>
+			<SENTENCE ID="1">些许失望</SENTENCE>
+			<SENTENCE ID="2">虎头蛇尾</SENTENCE>
+			<SENTENCE ID="3">设定很棒但故事被讲砸了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>失望</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>虎头蛇尾</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>21</ID>
+		<TEXT>
+			<SENTENCE ID="1">跟小萌机器人作对的人没有好下场</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>22</ID>
+		<TEXT>
+			<SENTENCE ID="1">打一星的，是不是太没存在感了</SENTENCE>
+			<SENTENCE ID="2">姜文用力再过猛</SENTENCE>
+			<SENTENCE ID="3">桥段再刻意</SENTENCE>
+			<SENTENCE ID="4">剪辑再糟糕</SENTENCE>
+			<SENTENCE ID="5">也没任何理由只给《让子弹飞》一星</SENTENCE>
+			<SENTENCE ID="6">当然不能指望姜文克制</SENTENCE>
+			<SENTENCE ID="7">更不能指望姜文隐喻出现代中国的明晰道路</SENTENCE>
+			<SENTENCE ID="8">但是横向对比，给这样的中国电影打一星？这逼装得太恶心</SENTENCE>
+			<SENTENCE ID="9">另外这其实不是电影，这只是个舞台剧</SENTENCE>
+			<SENTENCE ID="10">三星了</SENTENCE>
+			<SENTENCE ID="11">别NM顶了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+				<SENTENCE ID="2">导演</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+				<SENTENCE ID="6">导演</SENTENCE>
+				<SENTENCE ID="7">导演</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">uncertain</SENTENCE>
+				<SENTENCE ID="10">总体</SENTENCE>
+				<SENTENCE ID="11">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>刻意</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>糟糕</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>恶心</WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>23</ID>
+		<TEXT>
+			<SENTENCE ID="1">你给我翻译翻译，神马叫惊喜</SENTENCE>
+			<SENTENCE ID="2">你给我翻译翻译，神马叫做TMD的惊喜</SENTENCE>
+			<SENTENCE ID="3">幽默、炫酷、西部片，自恋、隐喻、男性化，黑色、血腥、怪点子，卖腐、露点、性暗示，酒神、荒诞、神经错乱，草莽气息、英雄情结、革命浪漫主义外加一分的孤独</SENTENCE>
+			<SENTENCE ID="4">不是好坏丑不是七武士更不是无耻混蛋，它是让子弹飞</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>惊喜</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>惊喜</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>24</ID>
+		<TEXT>
+			<SENTENCE ID="1">絮絮叨叨、用力过猛的段子十足倒胃</SENTENCE>
+			<SENTENCE ID="2">观看过程好几次想离场</SENTENCE>
+			<SENTENCE ID="3">不是我的菜</SENTENCE>
+			<SENTENCE ID="4">此处省去100字</SENTENCE>
+			<SENTENCE ID="5">这仅仅是一部电影，任何打分都是偏见</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">uncertain</SENTENCE>
+				<SENTENCE ID="5">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>倒胃,絮絮叨叨</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>偏见</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>25</ID>
+		<TEXT>
+			<SENTENCE ID="1">本来是想给四星的</SENTENCE>
+			<SENTENCE ID="2">但鉴于感到会有一些小清新傲娇地给低分</SENTENCE>
+			<SENTENCE ID="3">所以果断5星支持</SENTENCE>
+			<SENTENCE ID="4">爽完了还撇嘴的，我横你们</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>果断,支持</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>撇嘴</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>26</ID>
+		<TEXT>
+			<SENTENCE ID="1">《让子弹飞》，中国史上最牛逼商业娱乐大片儿，没有之一</SENTENCE>
+			<SENTENCE ID="2">再补充一句：一部被《新闻联播》主播痛斥的电影十有八九是一部好电影，这就好像如果一个中国人能成为被《新闻联播》点名痛斥的人，那他十有八九是要名垂青史的</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>娱乐,最牛逼</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>名垂青史</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>27</ID>
+		<TEXT>
+			<SENTENCE ID="1">因为对《让子弹飞》吹捧得无耻到惊世骇俗的地步，本短评已被和谐</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>28</ID>
+		<TEXT>
+			<SENTENCE ID="1">姜文的个人英雄式表达</SENTENCE>
+			<SENTENCE ID="2">但拍得流畅热闹</SENTENCE>
+			<SENTENCE ID="3">复杂的剧情细节之下</SENTENCE>
+			<SENTENCE ID="4">但与鬼子来了相比，他更懂得如何掩藏自己挑战的野心</SENTENCE>
+			<SENTENCE ID="5">这些野心都掩藏在了一流的喜剧功夫上</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">导演</SENTENCE>
+				<SENTENCE ID="2">画面</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">导演</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>流畅,热闹</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>复杂,坚持</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>一流,喜剧</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>29</ID>
+		<TEXT>
+			<SENTENCE ID="1">北洋版《好坏丑》，中国式英雄的诞生</SENTENCE>
+			<SENTENCE ID="2">站着，还把钱挣了</SENTENCE>
+			<SENTENCE ID="3">对老谋小刚凯爷失望的，姜文全都给您补回来</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">导演</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>失望</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>30</ID>
+		<TEXT>
+			<SENTENCE ID="1">一个土匪碰上一个恶霸的故事，怎么讲得这么……他妈的惊喜</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>31</ID>
+		<TEXT>
+			<SENTENCE ID="1">有些人之所以想看星空和失恋33天</SENTENCE>
+			<SENTENCE ID="2">只不过是给自己一个相信爱情的理由和继续一个人走下去的勇气</SENTENCE>
+			<SENTENCE ID="3">但是电影始终都是一片阿司匹林</SENTENCE>
+			<SENTENCE ID="4">生活比电影艰难得多</SENTENCE>
+			<SENTENCE ID="5">看完电影</SENTENCE>
+			<SENTENCE ID="6">流完眼泪</SENTENCE>
+			<SENTENCE ID="7">你心中的那个人</SENTENCE>
+			<SENTENCE ID="8">还是不会对你有反应</SENTENCE>
+			<SENTENCE ID="9">这个世界</SENTENCE>
+			<SENTENCE ID="10">只是和你有关</SENTENCE>
+			<SENTENCE ID="11">和任何人都没有关系</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">其他</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">总体</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+				<SENTENCE ID="10">总体</SENTENCE>
+				<SENTENCE ID="11">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>失恋</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>勇气,爱情,相信,不过</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>艰难</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>眼泪</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>32</ID>
+		<TEXT>
+			<SENTENCE ID="1">台词有亮点</SENTENCE>
+			<SENTENCE ID="2">应当是编剧跟原著是同一人的关系</SENTENCE>
+			<SENTENCE ID="3">只是每个人的台词都好像是同一个人说的</SENTENCE>
+			<SENTENCE ID="4">格局太小</SENTENCE>
+			<SENTENCE ID="5">尚属小妞电影的基本范畴</SENTENCE>
+			<SENTENCE ID="6">是对想象爱情的一次小清新式样的包装</SENTENCE>
+			<SENTENCE ID="7">最伤是</SENTENCE>
+			<SENTENCE ID="8">缺少电影性</SENTENCE>
+			<SENTENCE ID="9">场面调度完全不行</SENTENCE>
+			<SENTENCE ID="10">根本就是电视剧的质地</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">总体</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">画面</SENTENCE>
+				<SENTENCE ID="10">画面</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>亮点</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>清新,新式,爱情</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不行</WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>33</ID>
+		<TEXT>
+			<SENTENCE ID="1">本人表示是10月5日分手的</SENTENCE>
+			<SENTENCE ID="2">之前一直想失恋33天是11月11日</SENTENCE>
+			<SENTENCE ID="3">是失恋36天去看的</SENTENCE>
+			<SENTENCE ID="4">现在失恋33天提前到11月8日了</SENTENCE>
+			<SENTENCE ID="5">本人就真的是失恋33天了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>失恋</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>失恋</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>失恋</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>失恋</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>34</ID>
+		<TEXT>
+			<SENTENCE ID="1">真正失恋要经过三个阶段</SENTENCE>
+			<SENTENCE ID="2">第一阶段当然丧尽自尊</SENTENCE>
+			<SENTENCE ID="3">痛不欲生</SENTENCE>
+			<SENTENCE ID="4">听到他的名字都会跳起来</SENTENCE>
+			<SENTENCE ID="5">第二阶段故作忘记</SENTENCE>
+			<SENTENCE ID="6">避而不提伤心事</SENTENCE>
+			<SENTENCE ID="7">可是内心隐隐作痛</SENTENCE>
+			<SENTENCE ID="8">到了最后阶段</SENTENCE>
+			<SENTENCE ID="9">他的名字与路人一样</SENTENCE>
+			<SENTENCE ID="10">不过是个名字</SENTENCE>
+			<SENTENCE ID="11">一点儿特别意义都没有</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">总体</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+				<SENTENCE ID="10">总体</SENTENCE>
+				<SENTENCE ID="11">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>真正,失恋</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>自尊</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>痛不欲生</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>起来</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>伤心,心事</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>隐隐作痛</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>不过</WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>特别</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>35</ID>
+		<TEXT>
+			<SENTENCE ID="1">典型的小妞电影</SENTENCE>
+			<SENTENCE ID="2">也典型的更适合女生</SENTENCE>
+			<SENTENCE ID="3">所有的角色刻薄起来</SENTENCE>
+			<SENTENCE ID="4">对白都跟一个人似的</SENTENCE>
+			<SENTENCE ID="5">那就是来自原作者的</SENTENCE>
+			<SENTENCE ID="6">蓝翔技校、非正常儿童中心</SENTENCE>
+			<SENTENCE ID="7">很亲切的豆瓣成分</SENTENCE>
+			<SENTENCE ID="8">成也台词</SENTENCE>
+			<SENTENCE ID="9">败也台词</SENTENCE>
+			<SENTENCE ID="10">尖酸刻薄的对白对有些观众很受用</SENTENCE>
+			<SENTENCE ID="11">可大段的爱情独白总让人想起配乐诗朗诵</SENTENCE>
+			<SENTENCE ID="12">情节平且无序</SENTENCE>
+			<SENTENCE ID="13">两星半</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">人物</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+				<SENTENCE ID="5">剧情</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">总体</SENTENCE>
+				<SENTENCE ID="8">剧情</SENTENCE>
+				<SENTENCE ID="9">剧情</SENTENCE>
+				<SENTENCE ID="10">剧情</SENTENCE>
+				<SENTENCE ID="11">剧情</SENTENCE>
+				<SENTENCE ID="12">剧情</SENTENCE>
+				<SENTENCE ID="13">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>刻薄,起来</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>亲切</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>尖酸,酸刻,刻薄</WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>爱情</WORD>
+				</SENTENCE>
+				<SENTENCE ID="12">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="13">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>36</ID>
+		<TEXT>
+			<SENTENCE ID="1">一部很糙但是很容易引起女性共鸣的作者电影</SENTENCE>
+			<SENTENCE ID="2">由大量照搬原作的犀利而空洞的台词堆砌而成</SENTENCE>
+			<SENTENCE ID="3">角色辨识度很低</SENTENCE>
+			<SENTENCE ID="4">贵在接地气</SENTENCE>
+			<SENTENCE ID="5">但是电影毕竟不同小说</SENTENCE>
+			<SENTENCE ID="6">该是靠演的而不是靠说的</SENTENCE>
+			<SENTENCE ID="7">不过我旁边还是有人看哭了</SENTENCE>
+			<SENTENCE ID="8">大概是代入了曾经的自己与真心吧</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">人物</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">总体</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>犀利,空洞,堆砌</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不是</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>不过</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>真心</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>37</ID>
+		<TEXT>
+			<SENTENCE ID="1">如果有一天她看到了这个视频的话</SENTENCE>
+			<SENTENCE ID="2">我希望她能永远忘记我</SENTENCE>
+			<SENTENCE ID="3">最动人的竟然是结尾最真实的采访</SENTENCE>
+			<SENTENCE ID="4">没有戏剧性</SENTENCE>
+			<SENTENCE ID="5">没有高潮</SENTENCE>
+			<SENTENCE ID="6">平平淡淡的生活每天都在继续，直到你习惯失去了TA</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+				<SENTENCE ID="5">剧情</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>希望</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>真实,动人</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>戏剧性</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>平铺直叙</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>失去,平淡</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>38</ID>
+		<TEXT>
+			<SENTENCE ID="1">我不喜欢文章贫嘴那样</SENTENCE>
+			<SENTENCE ID="2">演什么都千人一面</SENTENCE>
+			<SENTENCE ID="3">和王络丹一样了</SENTENCE>
+			<SENTENCE ID="4">没有灵气了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+				<SENTENCE ID="3">演员</SENTENCE>
+				<SENTENCE ID="4">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>贫嘴,喜欢</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>崩溃,千人一面</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>灵气</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>39</ID>
+		<TEXT>
+			<SENTENCE ID="1">比想象中好点</SENTENCE>
+			<SENTENCE ID="2">拍的太长不紧凑</SENTENCE>
+			<SENTENCE ID="3">镜头没什么运动</SENTENCE>
+			<SENTENCE ID="4">场景调度也没啥</SENTENCE>
+			<SENTENCE ID="5">哥有点坐不住</SENTENCE>
+			<SENTENCE ID="6">旁白和对白铺下来的电影</SENTENCE>
+			<SENTENCE ID="7">闭着眼睛也不妨碍理解剧情</SENTENCE>
+			<SENTENCE ID="8">看着没太大成本</SENTENCE>
+			<SENTENCE ID="9">票房应该会好</SENTENCE>
+			<SENTENCE ID="10">铁甲钢拳与这个片观众层不冲突</SENTENCE>
+			<SENTENCE ID="11">丁丁15号上映还能给它留一周时间</SENTENCE>
+			<SENTENCE ID="12">没准还能成个吸金的话题电影</SENTENCE>
+			<SENTENCE ID="13">可能是十一月唯一能活着的国产片</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">画面</SENTENCE>
+				<SENTENCE ID="4">画面</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+				<SENTENCE ID="6">剧情</SENTENCE>
+				<SENTENCE ID="7">剧情</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+				<SENTENCE ID="10">总体</SENTENCE>
+				<SENTENCE ID="11">总体</SENTENCE>
+				<SENTENCE ID="12">总体</SENTENCE>
+				<SENTENCE ID="13">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>紧凑</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>妨碍,理解</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>冲突</WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="12">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="13">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>40</ID>
+		<TEXT>
+			<SENTENCE ID="1">所谓的自我</SENTENCE>
+			<SENTENCE ID="2">所谓的感情洁癖</SENTENCE>
+			<SENTENCE ID="3">据理力争</SENTENCE>
+			<SENTENCE ID="4">是我这段感情的病灶</SENTENCE>
+			<SENTENCE ID="5">每当问题出现时</SENTENCE>
+			<SENTENCE ID="6">我最常做的不是倾听而是抱怨</SENTENCE>
+			<SENTENCE ID="7">不是合作而是攻击</SENTENCE>
+			<SENTENCE ID="8">请你别放弃我</SENTENCE>
+			<SENTENCE ID="9">我不再要那些一击即碎的自尊了</SENTENCE>
+			<SENTENCE ID="10">我的自信也全部是空穴来风</SENTENCE>
+			<SENTENCE ID="11">我要让你看到</SENTENCE>
+			<SENTENCE ID="12">我现在有多卑微</SENTENCE>
+			<SENTENCE ID="13">请你原谅我</SENTENCE>
+			<SENTENCE ID="14">不过呢</SENTENCE>
+			<SENTENCE ID="15">失恋算个球</SENTENCE>
+			<SENTENCE ID="16">明天醒来继续爱别人吧</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">总体</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+				<SENTENCE ID="10">总体</SENTENCE>
+				<SENTENCE ID="11">总体</SENTENCE>
+				<SENTENCE ID="12">总体</SENTENCE>
+				<SENTENCE ID="13">总体</SENTENCE>
+				<SENTENCE ID="14">总体</SENTENCE>
+				<SENTENCE ID="15">总体</SENTENCE>
+				<SENTENCE ID="16">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>据理</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>病</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>抱怨,不是,倾听</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>攻击,不是</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>自尊</WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>空穴来风,自信</WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="12">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>卑微</WORD>
+				</SENTENCE>
+				<SENTENCE ID="13">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>原谅</WORD>
+				</SENTENCE>
+				<SENTENCE ID="14">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>不过</WORD>
+				</SENTENCE>
+				<SENTENCE ID="15">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>失恋</WORD>
+				</SENTENCE>
+				<SENTENCE ID="16">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>41</ID>
+		<TEXT>
+			<SENTENCE ID="1">这片儿要没堤真一大叔那得减掉五颗星</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>42</ID>
+		<TEXT>
+			<SENTENCE ID="1">流浪汉就活该被杀？</SENTENCE>
+			<SENTENCE ID="2">人家的命就该比你女神的命贱？</SENTENCE>
+			<SENTENCE ID="3">有什么值得拍手叫好感动的热泪盈眶的？</SENTENCE>
+			<SENTENCE ID="4">还纯爱还天才简直是畜生！</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>值得,热泪盈眶,拍手叫好,叫好</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>畜生,天才</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>43</ID>
+		<TEXT>
+			<SENTENCE ID="1">如果你不能幸福，我所做的一切都将白费~~</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>44</ID>
+		<TEXT>
+			<SENTENCE ID="1">福山和柴崎各种做作</SENTENCE>
+			<SENTENCE ID="2">堤叔真是难为你了……</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>做作</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>45</ID>
+		<TEXT>
+			<SENTENCE ID="1">堤真一表演的邋遢天才还可以</SENTENCE>
+			<SENTENCE ID="2">把汤川的光彩夺了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>邋遢,天才</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>光彩</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>46</ID>
+		<TEXT>
+			<SENTENCE ID="1">爱情不只是付出，而是付出全部。</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>47</ID>
+		<TEXT>
+			<SENTENCE ID="1">说实话，看完心里一点也不好受</SENTENCE>
+			<SENTENCE ID="2">这世界上是有人愿意为了别人做出巨大的牺牲的</SENTENCE>
+			<SENTENCE ID="3">对这样的人，我很尊敬</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD>不好,好受</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>牺牲,愿意</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>尊敬</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>48</ID>
+		<TEXT>
+			<SENTENCE ID="1">拒绝交待美里的反应反而太不真实</SENTENCE>
+			<SENTENCE ID="2">爬山那一段显然是为了增加戏剧张力添进去的</SENTENCE>
+			<SENTENCE ID="3">不过反而破坏了数学家对素朴简洁的偏执追求</SENTENCE>
+			<SENTENCE ID="4">又比如把靖子设计成恬静恳切人见人爱的淑女而不是原作当中“毫无长处、平凡无奇、没什么魅力的中年女人”(虽为自谦)</SENTENCE>
+			<SENTENCE ID="5">就显然为了切合我们这些“俗人”(正常人)的思维</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">人物</SENTENCE>
+				<SENTENCE ID="5">人物</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不真实</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>简洁,不过,偏执,追求,素朴</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>恬静,恳切,不是</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>切合</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>49</ID>
+		<TEXT>
+			<SENTENCE ID="1">我绝对不承认这是推理片</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>50</ID>
+		<TEXT>
+			<SENTENCE ID="1">整体尚可</SENTENCE>
+			<SENTENCE ID="2">堤真一的演技令人折服</SENTENCE>
+			<SENTENCE ID="3">但疑案的大费周章却不够使人信服</SENTENCE>
+			<SENTENCE ID="4">若能够把尸体处理得神不知鬼不觉（电影最后也没交代去了哪里），干嘛还主动自曝家丑啊</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>折服</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不够,大费周章,信服</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>家丑</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>51</ID>
+		<TEXT>
+			<SENTENCE ID="1">萝莉有颗御姐心，正太有个大叔身——邪恶而天真、残酷却温柔，多完美~</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">人物</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>52</ID>
+		<TEXT>
+			<SENTENCE ID="1">她对Leon说，自从遇见你后，我的胃，再也不痛了……</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>53</ID>
+		<TEXT>
+			<SENTENCE ID="1">我开始想要过得快乐，睡在床上，有牵挂</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>54</ID>
+		<TEXT>
+			<SENTENCE ID="1">这个男人他是从儿时的动画片里走出来的，是邪恶和童真的混合体，</SENTENCE>
+			<SENTENCE ID="2">这令我着迷</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">人物</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>童真</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>着迷</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>55</ID>
+		<TEXT>
+			<SENTENCE ID="1">Leon的门打开，一束好象来自天堂的光照在Mathilda脸上。</SENTENCE>
+			<SENTENCE ID="2">给他快乐，从不发问。细节和大方向都很出色，一部控制得几乎完美的电影。</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>出色,完美</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>56</ID>
+		<TEXT>
+			<SENTENCE ID="1">小妞造型不错，赶在长残之前拍完了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>57</ID>
+		<TEXT>
+			<SENTENCE ID="1">那时候的娜塔莉波特曼很萌哟。</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>58</ID>
+		<TEXT>
+			<SENTENCE ID="1">找不到比这个更喜欢的了。</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>59</ID>
+		<TEXT>
+			<SENTENCE ID="1">爱上了让雷诺。</SENTENCE>
+			<SENTENCE ID="2">爱上了这个意大利杀手的温情。</SENTENCE>
+			<SENTENCE ID="3">爱上了他脸部轮廓，和刚毅的线条。</SENTENCE>
+			<SENTENCE ID="4">“人生诸多辛苦，是不是只有童年如此。”玛蒂尔达问。里昂说，“一直如此。”这样的话，击中了内心深处。</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">人物</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">人物</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>爱上</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>爱上,温情</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>爱上,刚毅</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>不是</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>60</ID>
+		<TEXT>
+			<SENTENCE ID="1">复杂的社会关系里总有绽放如花的感情</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>61</ID>
+		<TEXT>
+			<SENTENCE ID="1">原来豆瓣也有那么多函数的脑残粉</SENTENCE>
+			<SENTENCE ID="2">马甲们都手手睡吧你们入侵豆瓣的计划是无法得逞的</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD>脑残</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>62</ID>
+		<TEXT>
+			<SENTENCE ID="1">孤岛惊魂,一部神奇的电影</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>63</ID>
+		<TEXT>
+			<SENTENCE ID="1">《孤岛惊魂》一句话影评：啊！啊啊啊！啊啊啊啊啊！……放杨幂出来卖肉！……啊啊啊！啊啊啊啊啊啊啊！……一直“啊啊啊”到剧终……</SENTENCE>
+			<SENTENCE ID="2">放杨幂出来卖肉</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>64</ID>
+		<TEXT>
+			<SENTENCE ID="1">贼小玩具野猪，眼睛还冒着红灯光，追一群主角跑</SENTENCE>
+			<SENTENCE ID="2">众人边跑边喊“有怪兽啊</SENTENCE>
+			<SENTENCE ID="3">捆绑、迷昏、二女3P未遂、乱石砸死安雅、无人汽车飞撞</SENTENCE>
+			<SENTENCE ID="4">乱石砸死安雅</SENTENCE>
+			<SENTENCE ID="5">叶山豪飚日语</SENTENCE>
+			<SENTENCE ID="6">一男一女彪英文</SENTENCE>
+			<SENTENCE ID="7">一群女人比基尼， 少儿不宜</SENTENCE>
+			<SENTENCE ID="8">我最爱杨幂瞬间掉坑里</SENTENCE>
+			<SENTENCE ID="9">复活的陈小春边喊她为妈妈，边学猫叫，拿着锄头自杀，震撼</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">人物</SENTENCE>
+				<SENTENCE ID="5">演员</SENTENCE>
+				<SENTENCE ID="6">人物</SENTENCE>
+				<SENTENCE ID="7">人物</SENTENCE>
+				<SENTENCE ID="8">剧情</SENTENCE>
+				<SENTENCE ID="9">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD> 少儿不宜</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>震撼</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>65</ID>
+		<TEXT>
+			<SENTENCE ID="1">陈小春成为国产惊悚大烂片专业户</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>66</ID>
+		<TEXT>
+			<SENTENCE ID="1">看20分钟就能猜到结局的悬疑片</SENTENCE>
+			<SENTENCE ID="2">毫无逻辑又脑残到好笑的恐怖片</SENTENCE>
+			<SENTENCE ID="3">这都是国产同类型电影里的家常便饭了</SENTENCE>
+			<SENTENCE ID="4">最不爽的是从头到尾动不动就轰轰轰，吵住别人睡觉</SENTENCE>
+			<SENTENCE ID="5">想跟小岛惊魂比就算了，绝命岛倒是有的一拼</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">配乐</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>好笑,脑残,毫无逻辑</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不爽</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>67</ID>
+		<TEXT>
+			<SENTENCE ID="1">鬼吓人开局</SENTENCE>
+			<SENTENCE ID="2">人吓人收局</SENTENCE>
+			<SENTENCE ID="3">国产恐怖片因为xx总局的限制俨然掌握了生存法则</SENTENCE>
+			<SENTENCE ID="4">编剧没有阿婆式的推理逻辑，更无需解释前4/5超自然现象的不合理性，只需在结局服务于总局的正确立场</SENTENCE>
+			<SENTENCE ID="5">通片最吓人的仍是一惊一乍的音效，仅此而已</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+				<SENTENCE ID="5">配乐</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不合理</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>68</ID>
+		<TEXT>
+			<SENTENCE ID="1">看了烂预告片所以过来瞧瞧</SENTENCE>
+			<SENTENCE ID="2">发现那些打五颗星的评论全是豆瓣新用户</SENTENCE>
+			<SENTENCE ID="3">让子弹飞有这么多枪手么</SENTENCE>
+			<SENTENCE ID="4">我还是给1颗星好了</SENTENCE>
+			<SENTENCE ID="5">十有八九是烂片了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+				<SENTENCE ID="3">uncertain</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>烂片</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>69</ID>
+		<TEXT>
+			<SENTENCE ID="1">最惊魂的就是前往孤岛时杨幂晕船吐的时候按胸口</SENTENCE>
+			<SENTENCE ID="2">真是惊心动魄</SENTENCE>
+			<SENTENCE ID="3">加上叶山豪，孤岛销魂都可以开拍了</SENTENCE>
+			<SENTENCE ID="4">最后那段坑道的戏感觉总跟哪一部外国恐怖片很像</SENTENCE>
+			<SENTENCE ID="5">还是不带劲</SENTENCE>
+			<SENTENCE ID="6">国产的“鬼”都是人</SENTENCE>
+			<SENTENCE ID="7">但总没解释那些超自然内容是什么手法做到</SENTENCE>
+			<SENTENCE ID="8">电影一颗星</SENTENCE>
+			<SENTENCE ID="9">杨幂两颗</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">演员</SENTENCE>
+				<SENTENCE ID="4">剧情</SENTENCE>
+				<SENTENCE ID="5">剧情</SENTENCE>
+				<SENTENCE ID="6">其他</SENTENCE>
+				<SENTENCE ID="7">其他</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>不带劲</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>70</ID>
+		<TEXT>
+			<SENTENCE ID="1">让我想起了《午夜出租车》《绝命岛》</SENTENCE>
+			<SENTENCE ID="2">不解释，一星</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>71</ID>
+		<TEXT>
+			<SENTENCE ID="1">我就知道这电影会合豆瓣网友的口味</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>72</ID>
+		<TEXT>
+			<SENTENCE ID="1">男住有点像老爸老妈的浪漫史 里面的Ted</SENTENCE>
+			<SENTENCE ID="2">有米有</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">人物</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>73</ID>
+		<TEXT>
+			<SENTENCE ID="1">生存就是场赛跑</SENTENCE>
+			<SENTENCE ID="2">我们生活里缺失很多这样的丰富与精彩</SENTENCE>
+			<SENTENCE ID="3">所以觉得电影好看</SENTENCE>
+			<SENTENCE ID="4">我们是容易对社会失望也是容易被感化的一代</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>精彩,丰富,缺失</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>失望</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>74</ID>
+		<TEXT>
+			<SENTENCE ID="1">同志们</SENTENCE>
+			<SENTENCE ID="2">这个片子</SENTENCE>
+			<SENTENCE ID="3">不看的话会死人的</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>75</ID>
+		<TEXT>
+			<SENTENCE ID="1">把说教挂在嘴边毫无意义</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>76</ID>
+		<TEXT>
+			<SENTENCE ID="1">你爸的印度电影不唱歌跳舞会死吗会吗</SENTENCE>
+			<SENTENCE ID="2">自省 煽情 励志</SENTENCE>
+			<SENTENCE ID="3">看完挺高兴的</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>煽情,自省</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>高兴</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>77</ID>
+		<TEXT>
+			<SENTENCE ID="1">3.8 一</SENTENCE>
+			<SENTENCE ID="2">固然男主角很有味道</SENTENCE>
+			<SENTENCE ID="3">二</SENTENCE>
+			<SENTENCE ID="4">拍得太像广告片了</SENTENCE>
+			<SENTENCE ID="5">画面除了满还是满</SENTENCE>
+			<SENTENCE ID="6">三</SENTENCE>
+			<SENTENCE ID="7">很多笑点很僵硬</SENTENCE>
+			<SENTENCE ID="8">我笑不出来</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+				<SENTENCE ID="2">人物</SENTENCE>
+				<SENTENCE ID="3">uncertain</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">画面</SENTENCE>
+				<SENTENCE ID="6">uncertain</SENTENCE>
+				<SENTENCE ID="7">剧情</SENTENCE>
+				<SENTENCE ID="8">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>有味,主角</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>78</ID>
+		<TEXT>
+			<SENTENCE ID="1">片太冗長</SENTENCE>
+			<SENTENCE ID="2">主角唯吾獨尊</SENTENCE>
+			<SENTENCE ID="3">功過世人不停說教</SENTENCE>
+			<SENTENCE ID="4">也只有中國會這麼追捧了</SENTENCE>
+			<SENTENCE ID="5">一面反傳統</SENTENCE>
+			<SENTENCE ID="6">一面傳統地反</SENTENCE>
+			<SENTENCE ID="7">看豆瓣的追捧者卑劣地詆毀差評評論者</SENTENCE>
+			<SENTENCE ID="8">就能知道這片的道德層次了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">人物</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+				<SENTENCE ID="5">其他</SENTENCE>
+				<SENTENCE ID="6">其他</SENTENCE>
+				<SENTENCE ID="7">其他</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>主角</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>卑劣</WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>道德</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>79</ID>
+		<TEXT>
+			<SENTENCE ID="1">励志电影</SENTENCE>
+			<SENTENCE ID="2">太长</SENTENCE>
+			<SENTENCE ID="3">穿插的歌舞曲不错</SENTENCE>
+			<SENTENCE ID="4">很适合亲朋好友一起看</SENTENCE>
+			<SENTENCE ID="5">看完更想嫁给工科男</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">配乐</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+				<SENTENCE ID="5">其他</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>不错</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>80</ID>
+		<TEXT>
+			<SENTENCE ID="1">我们的电影离印度也有三、五十年距离了</SENTENCE>
+			<SENTENCE ID="2">当然</SENTENCE>
+			<SENTENCE ID="3">无</SENTENCE>
+			<SENTENCE ID="4">买车买房是生活的诅咒</SENTENCE>
+			<SENTENCE ID="5">无</SENTENCE>
+			<SENTENCE ID="6">您保留职位，我保留态度“这种意识，根本就丈量不清了</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+				<SENTENCE ID="3">uncertain</SENTENCE>
+				<SENTENCE ID="4">其他</SENTENCE>
+				<SENTENCE ID="5">uncertain</SENTENCE>
+				<SENTENCE ID="6">其他</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>诅咒</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>根本</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>81</ID>
+		<TEXT>
+			<SENTENCE ID="1">大概广电局也不知道该从哪里剪</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>82</ID>
+		<TEXT>
+			<SENTENCE ID="1">卡梅隆负责革新电影技术</SENTENCE>
+			<SENTENCE ID="2">诺兰负责革新电影结构</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">导演</SENTENCE>
+				<SENTENCE ID="2">导演</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>革新</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>革新</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>83</ID>
+		<TEXT>
+			<SENTENCE ID="1">电影确实精彩</SENTENCE>
+			<SENTENCE ID="2">没有想象的难懂</SENTENCE>
+			<SENTENCE ID="3">相信你自己</SENTENCE>
+			<SENTENCE ID="4">总会有一个让你记一辈子的镜头</SENTENCE>
+			<SENTENCE ID="5">请降低期待值</SENTENCE>
+			<SENTENCE ID="6">请提前上厕所</SENTENCE>
+			<SENTENCE ID="7">记得关手机</SENTENCE>
+			<SENTENCE ID="8">记得听完结尾音乐。因为它负责让你醒来</SENTENCE>
+			<SENTENCE ID="9">极可能是近几年你在影院看过最精彩的电影</SENTENCE>
+			<SENTENCE ID="10">穿越吧少年</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">uncertain</SENTENCE>
+				<SENTENCE ID="4">画面</SENTENCE>
+				<SENTENCE ID="5">总体</SENTENCE>
+				<SENTENCE ID="6">uncertain</SENTENCE>
+				<SENTENCE ID="7">uncertain</SENTENCE>
+				<SENTENCE ID="8">配乐</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+				<SENTENCE ID="10">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>精彩</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>精彩</WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>84</ID>
+		<TEXT>
+			<SENTENCE ID="1">一部电影好看到即使你明白它在故弄玄虚也是义无反顾的打五星</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>85</ID>
+		<TEXT>
+			<SENTENCE ID="1">没吃饭去赶</SENTENCE>
+			<SENTENCE ID="2">首映是多么明智的决定啊</SENTENCE>
+			<SENTENCE ID="3">观影体验依次如下：funny，clever，great，super，magnfique，Cao NB，oh la l</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">uncertain</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>NB</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>86</ID>
+		<TEXT>
+			<SENTENCE ID="1">一直在牛逼，从未被超越</SENTENCE>
+			<SENTENCE ID="2">只有Nolan才能达到这种境界</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">导演</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>87</ID>
+		<TEXT>
+			<SENTENCE ID="1">《奠基》是一部复杂精致并绝对精彩好看的电影</SENTENCE>
+			<SENTENCE ID="2">他让你在片尾字幕出现时完全反应不过来之前的两个半小时发生了什么</SENTENCE>
+			<SENTENCE ID="3">就像一场梦境一样让你匪夷所思却又流连忘返</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">剧情</SENTENCE>
+				<SENTENCE ID="3">剧情</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>精彩,精致</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>流连忘返,匪夷所思</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>88</ID>
+		<TEXT>
+			<SENTENCE ID="1">既然做梦，就做大点</SENTENCE>
+			<SENTENCE ID="2">这句太深得人心了</SENTENCE>
+			<SENTENCE ID="3">2010年最天才的电影</SENTENCE>
+			<SENTENCE ID="4">谁又能说，现实不是梦境</SENTENCE>
+			<SENTENCE ID="5">Do you remember how you got here</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">其他</SENTENCE>
+				<SENTENCE ID="2">其他</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">uncertain</SENTENCE>
+				<SENTENCE ID="5">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>天才</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>uncertain</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>89</ID>
+		<TEXT>
+			<SENTENCE ID="1">前期的口碑营销确实有点儿过了</SENTENCE>
+			<SENTENCE ID="2">绝对还没有达到神作的级别</SENTENCE>
+			<SENTENCE ID="3">但依旧是近年来最好的影片</SENTENCE>
+			<SENTENCE ID="4">其遵循并热爱的怀古之风从人物造型</SENTENCE>
+			<SENTENCE ID="5">台词蔓延到拍摄手法以及特效制作上</SENTENCE>
+			<SENTENCE ID="6">一些动作戏上的处理还有视觉奇观的展现则还不是那么过瘾</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">其他</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">人物</SENTENCE>
+				<SENTENCE ID="5">导演</SENTENCE>
+				<SENTENCE ID="6">画面</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>最好</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>奇观</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>90</ID>
+		<TEXT>
+			<SENTENCE ID="1">植入意识不向来是我泱泱大国的长项么</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">uncertain</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">其他</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>91</ID>
+		<TEXT>
+			<SENTENCE ID="1">第一次发觉甄子丹竟然长的这么好看啊</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>92</ID>
+		<TEXT>
+			<SENTENCE ID="1">叶问你要吃饱了饭再打啊</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">人物</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>93</ID>
+		<TEXT>
+			<SENTENCE ID="1">李钊被误以为杀死师傅的凶手而被乱拳打死</SENTENCE>
+			<SENTENCE ID="2">有时候事情 不是我们看到得样子</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">剧情</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>94</ID>
+		<TEXT>
+			<SENTENCE ID="1">甄子丹真的是一个很稳重很成熟的男人</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>95</ID>
+		<TEXT>
+			<SENTENCE ID="1">整体上武打部分的细节处理不错</SENTENCE>
+			<SENTENCE ID="2">对话也比较写实化</SENTENCE>
+			<SENTENCE ID="3">人物的心理描绘因此也较佳</SENTENCE>
+			<SENTENCE ID="4">对于闹事的北方人，并没有变好的趋势</SENTENCE>
+			<SENTENCE ID="5">翻译呢，也是在不停挣扎</SENTENCE>
+			<SENTENCE ID="6">日本人依旧很傻</SENTENCE>
+			<SENTENCE ID="7">任达华的角色也可</SENTENCE>
+			<SENTENCE ID="8">但是最后收尾太轻率，反一号太弱，有些虎头蛇尾之感</SENTENCE>
+			<SENTENCE ID="9">有些可要可不要的情节，理应删去</SENTENCE>
+			<SENTENCE ID="10">可能做成上下集更好</SENTENCE>
+			<SENTENCE ID="11">王又男的表演是渣</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">其他</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">演员</SENTENCE>
+				<SENTENCE ID="8">总体</SENTENCE>
+				<SENTENCE ID="9">总体</SENTENCE>
+				<SENTENCE ID="10">总体</SENTENCE>
+				<SENTENCE ID="11">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>不错</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>较佳</WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>闹事</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD>花瓶,很傻</WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="8">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>轻率,虎头蛇尾</WORD>
+				</SENTENCE>
+				<SENTENCE ID="9">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="10">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="11">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>渣</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>96</ID>
+		<TEXT>
+			<SENTENCE ID="1">太过套路了</SENTENCE>
+			<SENTENCE ID="2">喜欢看拳脚功夫的倒可一看</SENTENCE>
+			<SENTENCE ID="3">其余全部程式化，让人提不起兴趣</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">-1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">总体</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>97</ID>
+		<TEXT>
+			<SENTENCE ID="1">算是合格的动作片</SENTENCE>
+			<SENTENCE ID="2">比较满意甄子丹冷面拆招的模样</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">0</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>合格</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>满意</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>98</ID>
+		<TEXT>
+			<SENTENCE ID="1">窃以为是近年来最好的功夫电影</SENTENCE>
+			<SENTENCE ID="2">我指的是粤语配音无删减版</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">uncertain</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>最好</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>0</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>99</ID>
+		<TEXT>
+			<SENTENCE ID="1">除了没新意没啥别的毛病</SENTENCE>
+			<SENTENCE ID="2">咏春传人的技术指导加甄子丹的功底</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">总体</SENTENCE>
+				<SENTENCE ID="2">演员</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>没新意,毛病</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>漂亮</WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+	<DOC>
+		<ID>100</ID>
+		<TEXT>
+			<SENTENCE ID="1">布景气氛甚好</SENTENCE>
+			<SENTENCE ID="2">虽不比十月围城考究</SENTENCE>
+			<SENTENCE ID="3">粤式大宅似蕉叶，到底是南国熏风撩人</SENTENCE>
+			<SENTENCE ID="4">情节平淡，人物平淡，打起来确是好看</SENTENCE>
+			<SENTENCE ID="5">熊黛林今日方得见，不虚一个黛字</SENTENCE>
+			<SENTENCE ID="6">不以貌取真子弹，贵公子习武修身修德，境本不与他人同，谦冲自牧</SENTENCE>
+			<SENTENCE ID="7">非常之时则行当行之事，嫁人何不嫁叶问</SENTENCE>
+		</TEXT>
+		<REFERENCE>
+			<TASK ID="1">1</TASK>
+			<TASK ID="2">
+				<SENTENCE ID="1">画面</SENTENCE>
+				<SENTENCE ID="2">总体</SENTENCE>
+				<SENTENCE ID="3">画面</SENTENCE>
+				<SENTENCE ID="4">总体</SENTENCE>
+				<SENTENCE ID="5">演员</SENTENCE>
+				<SENTENCE ID="6">总体</SENTENCE>
+				<SENTENCE ID="7">人物</SENTENCE>
+			</TASK>
+			<TASK ID="3">
+				<SENTENCE ID="1">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>甚好</WORD>
+				</SENTENCE>
+				<SENTENCE ID="2">
+					<SENTIMENT>-1</SENTIMENT>
+					<WORD>考究</WORD>
+				</SENTENCE>
+				<SENTENCE ID="3">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="4">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>平淡,平淡,好看</WORD>
+				</SENTENCE>
+				<SENTENCE ID="5">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD>不虚</WORD>
+				</SENTENCE>
+				<SENTENCE ID="6">
+					<SENTIMENT>感慨</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+				<SENTENCE ID="7">
+					<SENTIMENT>1</SENTIMENT>
+					<WORD></WORD>
+				</SENTENCE>
+			</TASK>
+		</REFERENCE>
+	</DOC>
+</DATA>
